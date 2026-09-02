@@ -1,0 +1,5 @@
+﻿Metric,Value
+Total Orders (Raw),752
+Duplicate Orders Removed,2
+Invalid Quantity Removed (<= 0),2
+Cleaned Orders,748
